@@ -14,3 +14,12 @@
 #tab-bar .demo-preview-item .am-tab-bar {
   background-color: white;
 }
+.am-tab-bar-tab i.iconfont{
+  color: #b3b3b3
+}
+.am-tab-bar-tab i.iconfont{
+  font-size: 0.44rem;
+}
+.am-tab-bar-tab-active i.iconfont{
+  color: #c19250;
+}
