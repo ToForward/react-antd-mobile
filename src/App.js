@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { TabBar, Icon } from 'antd-mobile';
 import './App.css';
+
 /* eslint global-require: 0 */
 class App extends Component {
   constructor(props) {
